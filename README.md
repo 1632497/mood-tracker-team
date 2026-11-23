@@ -1,3 +1,5 @@
+=======
 # mood-tracker-team
-ivan
+- María
+- Ivan
 
